@@ -1,7 +1,7 @@
 
 
 # LandPix200
-##Landry Simo, développeur passionné
+## Landry Simo, développeur passionné
 
 ![image of a pixelated landscape with a moving sun and clouds](https://media.giphy.com/media/3o6Ztqg0yT8x7Qf9kc/giphy.gif)
 
