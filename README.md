@@ -1,7 +1,7 @@
-D'accord, je vais essayer d'ajouter plus d'images, des animations et des effets spéciaux à ton profil. Voici une nouvelle version :
+
 
 # LandPix200
-## Landry Simo, développeur passionné
+##Landry Simo, développeur passionné
 
 ![image of a pixelated landscape with a moving sun and clouds](https://media.giphy.com/media/3o6Ztqg0yT8x7Qf9kc/giphy.gif)
 
@@ -13,8 +13,8 @@ D'accord, je vais essayer d'ajouter plus d'images, des animations et des effets 
 
 ## Mes compétences
 - HTML, CSS, JavaScript
-- Python, C++, Java
-- TensorFlow, PyTorch, Unity
+- Python, C++, Java, Flutter 
+- Godot engine 
 - Git, GitHub, VS Code
 
 ![image of a code editor with syntax highlighting and a cursor blinking](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
@@ -25,5 +25,3 @@ D'accord, je vais essayer d'ajouter plus d'images, des animations et des effets 
 - [Un chatbot intelligent](https://github.com/LandPix200/smart-chatbot)
 
 ![image of a face detection algorithm with a green box around a face and a label saying "LandPix200"](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-Est-ce que c'est mieux comme ça?
