@@ -12,6 +12,10 @@
 
 
 ## Mes competences
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,flutter,js,html,css,django,firebase,github,godot)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,java,flutter,js,html,css,django,firebase,github,godot" />
+  </a>
+</p>
 
 
