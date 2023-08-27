@@ -1,13 +1,22 @@
 
 
 # LandPix200
-## Landry Simo, développeur passionné
+# Salut, je suis LandPix200, développeur passionné !
 
-- 👋 Salut, je suis LandPix200, de mon vrai nom Landry Simo.
-- 👀 Je suis interessé par la programmation sur tout types. les AI, la creations de jeux videos et bien plus
-- 🌱 Pour le moment j'apprend encore et j'aimerais avoir des gens avec qui apprendre
-- 💞️ J'aimerais collaborer sur tout types de projets 
-- 📫 Comment me joindre : (+237)654149304 Mon numéro (originaire du cameroun) et aussi mon whatsapp
+## À propos de moi
+Je m'appelle Landry Simo et je suis un développeur enthousiaste basé au Cameroun. J'ai une passion pour la programmation, en particulier dans les domaines de l'IA, de la création de jeux vidéo et bien plus encore. Je suis constamment en train d'apprendre et je suis ouvert à de nouvelles opportunités de collaboration sur différents types de projets.
+
+## Mes valeurs
+Je suis passionné par l'apprentissage continu, la résolution de problèmes complexes et la création de solutions innovantes. Je suis motivé par l'opportunité de collaborer avec d'autres développeurs talentueux pour créer des expériences exceptionnelles.
+
+## Contact
+- Téléphone : (+237) 654149304 (WhatsApp également disponible)
+- Email : landrysimo99@gmail.com
+- Whatsapp : https://wa.me/237654149304
+- GitHub : [github.com/landpix200](https://github.com/landpix200)
+
+N'hésitez pas à me contacter si vous souhaitez discuter de projets intéressants ou si vous avez des questions. Je suis impatient de collaborer avec vous !
+
 
 
 
