@@ -1,10 +1,10 @@
 
 
 # LandPix200
-# Salut, je suis LandPix200, développeur passionné !
+# Salut, je suis LandPix200, développeur.
 
 ## À propos de moi
-Je m'appelle Landry Simo et je suis un développeur enthousiaste basé au Cameroun. J'ai une passion pour la programmation, en particulier dans les domaines de l'IA, de la création de jeux vidéo et bien plus encore. Je suis constamment en train d'apprendre et je suis ouvert à de nouvelles opportunités de collaboration sur différents types de projets.
+Je m'appelle Landry Simo et je suis un développeur enthousiaste basé au Cameroun. J'ai une passion pour la programmation, en particulier dans les domaines de l'IA, de la création de jeux vidéo, applications multiplateformes et bien plus encore. Je suis constamment en train d'apprendre et je suis ouvert à de nouvelles opportunités de collaboration sur différents types de projets.
 
 ## Mes valeurs
 Je suis passionné par l'apprentissage continu, la résolution de problèmes complexes et la création de solutions innovantes. Je suis motivé par l'opportunité de collaborer avec d'autres développeurs talentueux pour créer des expériences exceptionnelles.
