@@ -23,7 +23,7 @@ N'hésitez pas à me contacter si vous souhaitez discuter de projets intéressan
 ## Mes competences
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,flutter,js,html,css,django,firebase,github,godot,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,flutter,js,html,css,django,firebase,github,godot,node" />
   </a>
 </p>
 
