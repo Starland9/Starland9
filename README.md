@@ -27,4 +27,6 @@ N'hésitez pas à me contacter si vous souhaitez discuter de projets intéressan
   </a>
 </p>
 
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+
 
