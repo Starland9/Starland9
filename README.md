@@ -29,4 +29,5 @@ N'hésitez pas à me contacter si vous souhaitez discuter de projets intéressan
 
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 
+[![committers.top badge](https://user-badge.committers.top/cameroon/Starland9.svg)](https://user-badge.committers.top/cameroon/Starland9)
 
