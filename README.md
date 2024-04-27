@@ -3,8 +3,7 @@
 # Landry Simo
 # Salut, je suis développeur.
 
-## À propos de moi
-Je m'appelle Landry Simo et je suis un développeur enthousiaste basé au Cameroun. J'ai une passion pour la programmation, en particulier dans les domaines de l'IA, de la création de jeux vidéo, applications multiplateformes et bien plus encore. Je suis constamment en train d'apprendre et je suis ouvert à de nouvelles opportunités de collaboration sur différents types de projets.
+![image](https://github.com/Starland9/Starland9/assets/86841267/e2b85461-0aca-42c0-ae17-530dec163d4c)
 
 ## Mes valeurs
 Je suis passionné par l'apprentissage continu, la résolution de problèmes complexes et la création de solutions innovantes. Je suis motivé par l'opportunité de collaborer avec d'autres développeurs talentueux pour créer des expériences exceptionnelles.
