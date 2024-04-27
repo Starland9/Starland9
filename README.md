@@ -8,14 +8,13 @@
 ## Mes valeurs
 Je suis passionné par l'apprentissage continu, la résolution de problèmes complexes et la création de solutions innovantes. Je suis motivé par l'opportunité de collaborer avec d'autres développeurs talentueux pour créer des expériences exceptionnelles.
 
-## Contact
-- Téléphone : (+237) 654149304 (WhatsApp également disponible)
-- Email : landrysimo99@gmail.com
-- Whatsapp : https://wa.me/237654149304
-- GitHub : [github.com/landpix200](https://github.com/landpix200)
+## Contact 📞
+- **Téléphone :** (+237)695603938 (WhatsApp également disponible)
+- **Email :** [landrysimo99@gmail.com](mailto:landrysimo99@gmail.com)
+- **WhatsApp :** [WhatsApp](https://wa.me/237695603938) 📱
+- **GitHub :** [github.com/Starland9](https://github.com/Starland9) 💻
 
 N'hésitez pas à me contacter si vous souhaitez discuter de projets intéressants ou si vous avez des questions. Je suis impatient de collaborer avec vous !
-
 
 
 
