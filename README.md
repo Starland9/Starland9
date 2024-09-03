@@ -2,8 +2,7 @@
 
 # Landry Simo
 # Salut, je suis développeur.
-
-![image](https://github.com/Starland9/Starland9/assets/86841267/e2b85461-0aca-42c0-ae17-530dec163d4c)
+![](https://komarev.com/ghpvc/?username=Starland9&abbreviated=true)
 
 ## Mes valeurs
 Je suis passionné par l'apprentissage continu, la résolution de problèmes complexes et la création de solutions innovantes. Je suis motivé par l'opportunité de collaborer avec d'autres développeurs talentueux pour créer des expériences exceptionnelles.
