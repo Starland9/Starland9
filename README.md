@@ -15,6 +15,13 @@ Je suis passionné par l'apprentissage continu, la résolution de problèmes com
 
 N'hésitez pas à me contacter si vous souhaitez discuter de projets intéressants ou si vous avez des questions. Je suis impatient de collaborer avec vous !
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ## Mes competences
@@ -44,3 +51,4 @@ N'hésitez pas à me contacter si vous souhaitez discuter de projets intéressan
 <br>
 <p><img align="center" src="https://streak-stats.demolab.com?user=Starland9&count_private=true&theme=algolia&border_radius=20" alt="Starland9" /></p>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0jriakicvqx06wyhyscpqlm2l)
