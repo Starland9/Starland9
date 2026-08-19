@@ -1,53 +1,76 @@
+# <div align="center">Landry Simo 👋</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:38bdf8&text=Salut,%20je%20suis%20Landry&fontColor=ffffff&fontSize=34&fontAlignY=35&desc=D%C3%A9veloppeur%20passionn%C3%A9%20par%20les%20produits%20utiles,%20propres%20et%20modernes.&descAlignY=55" alt="Bannière de profil Landry Simo" />
+</div>
 
-# Landry Simo
-# Salut, je suis développeur.
-![](https://komarev.com/ghpvc/?username=Starland9&abbreviated=true)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Starland9&abbreviated=true&color=2563eb&style=for-the-badge" alt="Vues du profil" />
+  <a href="https://github.com/Starland9">
+    <img src="https://img.shields.io/badge/GitHub-Starland9-181717?style=for-the-badge&logo=github" alt="GitHub Starland9" />
+  </a>
+  <a href="mailto:landrysimo99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactez--moi-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/237695603938">
+    <img src="https://img.shields.io/badge/WhatsApp-Disponible-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</div>
+
+## À propos
+
+Je construis des expériences logicielles modernes en gardant la même ligne directrice : apprendre vite, résoudre des problèmes concrets et livrer des solutions propres qui restent agréables à utiliser.
+
+- 🔭 J'aime transformer des idées en produits utiles
+- 🧠 J'investis beaucoup dans l'apprentissage continu
+- 🤝 Je suis motivé par les collaborations ambitieuses
+- ⚙️ J'apprécie les stacks web, mobile, backend et tooling
 
 ## Mes valeurs
-Je suis passionné par l'apprentissage continu, la résolution de problèmes complexes et la création de solutions innovantes. Je suis motivé par l'opportunité de collaborer avec d'autres développeurs talentueux pour créer des expériences exceptionnelles.
+
+> Passion pour l'apprentissage continu, goût pour les défis techniques et envie de créer des solutions innovantes avec d'autres développeurs talentueux.
 
 ## Contact 📞
-- **Téléphone :** (+237)695603938 (WhatsApp également disponible)
+
+- **Téléphone / WhatsApp :** (+237) 695 60 39 38
 - **Email :** [landrysimo99@gmail.com](mailto:landrysimo99@gmail.com)
-- **WhatsApp :** [WhatsApp](https://wa.me/237695603938) 📱
-- **GitHub :** [github.com/Starland9](https://github.com/Starland9) 💻
+- **GitHub :** [github.com/Starland9](https://github.com/Starland9)
 
-N'hésitez pas à me contacter si vous souhaitez discuter de projets intéressants ou si vous avez des questions. Je suis impatient de collaborer avec vous !
+## Mes outils de travail
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Starland9/Starland9/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-###
-
-
-## Mes Outils de Travail
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,python,c,cpp,java,flutter,js,html,css,django,firebase,github,godot,nodejs,express,mongo,tailwind,discord,nextjs,typescript,docker,pycharm,webstorm,postman,mint" />
+    <img src="https://skillicons.dev/icons?i=vscode,python,c,cpp,java,flutter,js,html,css,django,firebase,github,godot,nodejs,express,mongo,tailwind,discord,nextjs,typescript,docker,pycharm,webstorm,postman,mint&perline=9" alt="Outils et technologies" />
   </a>
 </p>
 
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Starland9&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12" alt="Trophées GitHub" />
+</div>
 
-[![committers.top badge](https://user-badge.committers.top/cameroon_private/USERNAME.svg)](https://user-badge.committers.top/cameroon_private/Starland9)
+## 📊 Statistiques
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Starland9&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=18" alt="Statistiques GitHub de Starland9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starland9&layout=compact&theme=algolia&border_radius=18" alt="Langages les plus utilisés par Starland9" />
+</div>
 
-<!-- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif) -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Starland9&theme=algolia&border_radius=18" alt="Série de contributions de Starland9" />
+</div>
 
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Starland9&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Starland9" /></p>
+## Activité
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starland9&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Starland9" /></p>
-<br>
-<p><img align="center" src="https://streak-stats.demolab.com?user=Starland9&count_private=true&theme=algolia&border_radius=20" alt="Starland9" /></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Starland9/Starland9/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0jriakicvqx06wyhyscpqlm2l)
+## Ambiance en ce moment 🎧
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=0jriakicvqx06wyhyscpqlm2l" alt="Titres récemment écoutés sur Spotify" />
+</div>
+
+<div align="center">
+  <sub>Built with passion, consistency and a taste for polished developer experiences.</sub>
+</div>
