@@ -21,20 +21,14 @@
 
 Je construis des expériences logicielles modernes en gardant la même ligne directrice : apprendre vite, résoudre des problèmes concrets et livrer des solutions propres qui restent agréables à utiliser.
 
-- 🔭 J'aime transformer des idées en produits utiles
-- 🧠 J'investis beaucoup dans l'apprentissage continu
-- 🤝 Je suis motivé par les collaborations ambitieuses
-- ⚙️ J'apprécie les stacks web, mobile, backend et tooling
+- J'aime transformer des idées en produits utiles
+- J'investis beaucoup dans l'apprentissage continu
+- Je suis motivé par les collaborations ambitieuses
+- J'apprécie les stacks web, mobile, backend et tooling
 
 ## Mes valeurs
 
 > Passion pour l'apprentissage continu, goût pour les défis techniques et envie de créer des solutions innovantes avec d'autres développeurs talentueux.
-
-## Contact 📞
-
-- **Téléphone / WhatsApp :** (+237) 695 60 39 38
-- **Email :** [landrysimo99@gmail.com](mailto:landrysimo99@gmail.com)
-- **GitHub :** [github.com/Starland9](https://github.com/Starland9)
 
 ## Mes outils de travail
 
