@@ -15,6 +15,8 @@
   <a href="https://wa.me/237695603938">
     <img src="https://img.shields.io/badge/WhatsApp-Disponible-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Starland9/badge.svg)](https://hub.xerj.org/contributors/Starland9.html)
 </div>
 
 ## À propos
